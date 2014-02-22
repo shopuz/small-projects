@@ -1,0 +1,10 @@
+File copied: .\ColourChart\MEMO - ColourChart\ALPHAMAT_CC.pdf 
+File copied: .\ColourChart\WACR - ColourChart\KOZO_KAMKURA_CC.pdf 
+Removing empty folder:.\ColourChart\BANTEX - ColourChart
+Removing empty folder:.\ColourChart\EVGR - ColourChart
+Removing empty folder:.\ColourChart\INGR - ColourChart
+Removing empty folder:.\ColourChart\JAPT - ColourChart
+Removing empty folder:.\ColourChart\MACO - ColourChart
+Removing empty folder:.\ColourChart\MIAU - ColourChart
+Removing empty folder:.\ColourChart\REED - ColourChart
+Removing empty folder:.\ColourChart\TEEN - ColourChart

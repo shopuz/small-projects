@@ -1,0 +1,12 @@
+Could not find file: 
+File copied: .\ColourChart\MEMO - ColourChart\ALPHAMAT_CC.pdf 
+Could not find file: KOZO_ KAMKURA_CC
+Removing empty folder:.\ColourChart\BANTEX - ColourChart
+Removing empty folder:.\ColourChart\EVGR - ColourChart
+Removing empty folder:.\ColourChart\INGR - ColourChart
+Removing empty folder:.\ColourChart\JAPT - ColourChart
+Removing empty folder:.\ColourChart\MACO - ColourChart
+Removing empty folder:.\ColourChart\MIAU - ColourChart
+Removing empty folder:.\ColourChart\REED - ColourChart
+Removing empty folder:.\ColourChart\TEEN - ColourChart
+Removing empty folder:.\ColourChart\WACR - ColourChart

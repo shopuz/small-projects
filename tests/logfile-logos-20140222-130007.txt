@@ -1,0 +1,7 @@
+Could not find file: 
+File copied: .\Logos\EVGR - LOGO\Apollo_Logo.tif 
+File copied: .\Logos\MIAU - LOGO\Micador_Logo.TIF 
+File copied: .\Logos\JAPT - LOGO\ARTOGRAPH_LOGO.jpg 
+File copied: .\Logos\BANTEX - LOGO\LINEX_LOGO.pdf 
+File copied: .\Logos\MACO - LOGO\WATERMARK LOGO.tif 
+Removing empty folder:.\Logos\INGR - LOGORemoving empty folder:.\Logos\MEMO - LOGORemoving empty folder:.\Logos\REED - LOGORemoving empty folder:.\Logos\TEEN - LOGORemoving empty folder:.\Logos\WACR - LOGO

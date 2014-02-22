@@ -1,0 +1,8 @@
+Could not find file: JASMM
+File copied: .\Images\TEEN - Images\MANIKINS_GROUP.eps 
+File copied: .\Images\TEEN - Images\MANIKINS_GROUP.tif 
+Removing empty folder:.\Images\BANTEX - Images
+Removing empty folder:.\Images\EVGR - Images
+Removing empty folder:.\Images\MACO - Images
+Removing empty folder:.\Images\MEMO - Images
+Removing empty folder:.\Images\WACR - Images
