@@ -1,0 +1,3 @@
+Error copying : ATELIER_FF_CC
+Error copying : ALPHAMAT_CC
+Error copying : KOZO_KAMKURA_CC
